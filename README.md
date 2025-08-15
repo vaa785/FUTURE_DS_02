@@ -59,7 +59,6 @@ before considering a decrease in spending.
 - **Internship Domain:** Data Science & Analytics  
 - **Organization:** Future Interns  
 - **Task Number:** 02  
-- **Goal:** To Build a complete sales analytics dashboard with actionable insights  
 - **Name:** VANESSA. A
 - **Email:** anyakoravanessa99@gmail.com  
 - **LinkedIn:** http://linkedin.com/in/vanessa-anyakora-684197321
