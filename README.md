@@ -52,3 +52,17 @@ as they also demonstrate a strong return on investment in driving sales.
 🎯 **Optimize Low-Performing Channels**: While all channels contribute positively to sales, the returns from Google Ads and Influencer Marketing are comparatively lower.
 You should investigate these channels to understand if there are opportunities for optimization, such as refining your targeting or adjusting your content strategy, 
 before considering a decrease in spending.
+
+---
+
+## 📅 Internship Info
+- **Internship Domain:** Data Science & Analytics  
+- **Organization:** Future Interns  
+- **Task Number:** 01   
+- **Goal:** To Build a complete sales analytics dashboard with actionable insights  
+  
+- **Name:** VANESSA. A
+- **Email:** anyakoravanessa99@gmail.com  
+- **LinkedIn:** http://linkedin.com/in/vanessa-anyakora-684197321
+  
+---
